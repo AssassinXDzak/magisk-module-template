@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=Fixes
+name=Fixes Bug On Gsi 
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=@wazz
+description=For SGA11 and SM11
 template=3
