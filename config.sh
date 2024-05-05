@@ -50,7 +50,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
+  ui_print "     GSI FIXES FOR A11 M11    "
   ui_print "*******************************"
 }
 
